@@ -4,7 +4,6 @@ import joblib
 import streamlit_authenticator as stauth
 import requests
 import json
-from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
 
 # ---------------------- AUTHENTICATION SETUP ----------------------
